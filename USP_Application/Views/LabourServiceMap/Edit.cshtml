@@ -1,0 +1,12 @@
+﻿@model USP_Application.ViewModels.LabourServiceMapFormViewModel
+@{
+    ViewBag.Title = Model.LabourServiceMap.Id;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h2>Update LabourServiceMap Information</h2>
+@using (Html.BeginForm("CreateOrUpdate", "LabourServiceMap"))
+{
+    @Html.Partial("../LabourServiceMap/_LabourServiceMapForm", Model)
+
+    <button type="submit" class="btn btn-success">Update</button>
+}

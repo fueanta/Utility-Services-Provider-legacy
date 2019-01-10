@@ -1,0 +1,18 @@
+﻿@model USP_Application.ViewModels.LabourServiceMapFormViewModel
+
+<div class="form-group">
+    @Html.LabelFor(m => m.LabourServiceMap.LabourId)
+    @Html.DropDownListFor(m => m.LabourServiceMap.LabourId, new SelectList(Model.Labours, "Id", "Name"), "Select Labour",
+                                                new { @class = "form-control", id = "Labour" })
+
+    @Html.ValidationMessageFor(m => m.LabourServiceMap.LabourId, "", new { @class = "text-danger" })
+</div>
+<div class="form-group">
+    @Html.LabelFor(m => m.LabourServiceMap.ServiceId)
+    @Html.DropDownListFor(m => m.LabourServiceMap.ServiceId, new SelectList(Model.Services, "Id", "ServiceName"), "Select Service",
+                                                new { @class = "form-control", id = "Service" })
+
+    @Html.ValidationMessageFor(m => m.LabourServiceMap.ServiceId, "", new { @class = "text-danger" })
+</div>
+@Html.HiddenFor(m => m.LabourServiceMap.Id)
+<p style="min-height:5px;"></p>

@@ -1,0 +1,175 @@
+﻿@using USP_Application.Models
+@using PagedList;
+@using PagedList.Mvc;
+
+@model PagedList.IPagedList<LabourUserLoginModel>
+
+@{
+    ViewBag.Title = "Labour List";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section Scripts {
+    <script type="text/jscript">
+        $(document).ready(function () {
+            $("#SearchBtn").click(function () {
+                var searchValue = $("#SearchBox").val();
+                var searchBy = $("#SearchBy").val();
+
+                var setData = $("#SearchData");
+                var setPageNumber = $("#PageNumber");
+                var setPager = $("#Pager");
+
+                setData.html("");
+                setPageNumber.html("");
+                setPager.html("");
+
+                $.ajax({
+                    type: "post",
+                    url: "/Json/SearchLabourList?searchBy=" + searchBy + "&searchValue=" + searchValue,
+                    contentType: "html",
+                    success: function (result) {
+                        //if (searchValue == "") {
+                        //    window.location.href = '/Client/ClientList/';
+                        //}
+                        //else
+                        if (result.length == 0) {
+                            setData.append('<tr style="color:red"><td colspan="3">Data Not found :(</td></tr>')
+                        }
+                        else {
+                            $.each(result, function (index, value) {
+                                var tableData =
+                                    '<tr>' +
+                                    '<th scope="row">' + value.Id + '</th>' +
+                                    '<td>' + value.Name + '</td>' +
+                                    '<td>' + value.Phone + '</td>' +
+                                    '<td>' + value.Email + '</td>' +
+                                    '<td>' + value.Wallet + '</td>' +
+                                    '<td>' + value.City + '</td>' +
+                                    '<td>' + value.Area + '</td>' +
+                                    '<td><a href="/Labour/Details?id=' + value.Id + '">More</a></td>' +
+                                    '</tr>';
+                                setData.append(tableData);
+                            });
+
+                            //var pageNumber = '';
+                            //setPageNumber.append(pageNumber);
+
+                            //var pager = '';
+                            //setPager.append(pager);
+                        }
+                    },
+                    error: function () {
+                        alert('An error occurred!');
+                    }
+                });
+            });
+        });
+        $('#SearchBox').keypress(keypressHandler);
+        function keypressHandler(e) {
+            if (e.which == 13) {
+                e.preventDefault();
+                $(this).blur();
+                $('#SearchBtn').focus().click();
+                $('#SearchBox').focus();
+            }
+        }
+    </script>
+}
+
+<div style="margin-top:40px;" class="col-md-12">
+    <div class="panel panel-heading">
+        <div class="panel-body">
+            <div class="row">
+                <div class="col-md-3">
+                    <p style="font-size:xx-large;">Labour List</p>
+                </div>
+                <div class="col-md-9">
+                    <div class="row">
+                        <div class="col-md-3">
+                            <select id="SearchBy" name="SearchBy" class="form-control">
+                                <option value="id">Search by Id</option>
+                                <option value="name" selected>Search by Name</option>
+                                <option value="phone">Search by Phone</option>
+                                <option value="email">Search by Email</option>
+                                <option value="wallet">Search by Wallet</option>
+                                <option value="city">Search by City</option>
+                                <option value="area">Search by Area</option>
+                            </select>
+                        </div>
+
+                        <div class="col-md-4">
+                            <input id="SearchBox" class="form-control" type="text" placeholder="Search here ..." value="" />
+                        </div>
+                        <div class="col-md-1">
+                            <input id="SearchBtn" class="btn btn-success" type="submit" value="Search" />
+                        </div>
+                        <div style="margin-left:30px;" class="col-md-3">
+                            <a href="/Labour/Insert/"><button style="margin-left:25px;min-width: 77px;" class="btn btn-warning">Add New Labour</button></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        @if (Model == null | Model.Count() == 0)
+        {
+            <p>We don't have such labour at this moment.</p>
+        }
+        else
+        {
+            <div class="table-responsive">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th scope="col">#</th>
+                            <th scope="col">Name</th>
+                            <th scope="col">Phone</th>
+                            <th scope="col">Email</th>
+                            <th scope="col">Wallet</th>
+                            <th scope="col">City</th>
+                            <th scope="col">Area</th>
+                            <th scope="col"></th>
+                        </tr>
+                    </thead>
+                    <tbody id="SearchData">
+                        @foreach (var user in Model)
+                        {
+                        <tr>
+                            <th scope="row">
+                                @Html.DisplayFor(modelItem => user.Id)
+                            </th>
+                            <td>
+                                @Html.DisplayFor(modelItem => user.Name)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => user.Phone)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => user.Email)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => user.Wallet)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => user.City)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => user.Area)
+                            </td>
+                            <td>@Html.ActionLink("More", "Details", "Labour", new { id = user.Id }, null)</td>
+                        </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+            <hr />
+            <label id="PageNumber">
+                Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber)/@Model.PageCount
+            </label>
+        }
+    </div>
+    <div style="margin-top:-15px;" id="Pager">
+        @Html.PagedListPager(Model, page => Url.Action("LabourList", new { page = page }))
+    </div>
+</div>

@@ -1,0 +1,30 @@
+﻿@model USP_Application.ViewModels.ClientFormViewModel
+@{
+    ViewBag.Title = Model.Client.Name;
+    Layout = "_ClientLayout.cshtml";
+}
+
+@section Scripts {
+    <script type="text/jscript">
+        $(function () {
+            $('#City').change(function () {
+                $('#Area').html(null);
+                $.getJSON('/Json/AreaList/' + $('#City').val(), function (data) {
+                    $.each(data, function (i, area) {
+                        $("#Area").append(
+                            "<option value=" + area.Value + ">" + area.Text + "</option>")
+                    });
+                });
+            });
+        });
+    </script>
+}
+
+<h2>Update Information</h2>
+
+@using (Html.BeginForm("CreateOrUpdate", "Client"))
+{
+    @Html.Partial("../Client/_ClientForm", Model)
+    
+    <button type="submit" class="btn btn-success">Update</button>
+}

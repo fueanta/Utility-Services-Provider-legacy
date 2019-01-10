@@ -1,0 +1,12 @@
+﻿@{
+    ViewBag.Title = "Register City";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h2>Insert New City</h2>
+@using (Html.BeginForm("CreateOrUpdate", "City"))
+{
+    @Html.Partial("../City/_CityForm")
+    <button type="submit" class="btn btn-primary">Submit</button>
+}
+
+

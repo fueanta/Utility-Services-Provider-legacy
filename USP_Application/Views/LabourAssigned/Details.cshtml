@@ -1,0 +1,19 @@
+﻿@model USP_Application.ViewModels.LabourAssignedFormViewModel
+
+@{
+    ViewBag.Title = Model.LabourAssigned.Labour.Name;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+<ul>
+    <li>Labour Name : @Model.LabourAssigned.Labour.Name</li>
+    <li>Labour Id   : @Model.LabourAssigned.Labour.Id</li>
+    <li>Service Name: @Model.LabourAssigned.ServiceRequest.Service.ServiceName</li>
+    <li>Time Assign : @Model.LabourAssigned.TimeAssigned </li>
+    <li>Assigned by : @Model.LabourAssigned.Employee.Name</li>
+</ul>
+<div style="margin-top:20px;">
+    <a href="/LabourAssigned/Edit/@Model.LabourAssigned.Id"><button style="margin-left:25px;min-width: 77px;" class="btn btn-warning">Edit</button></a>
+    <a href="/LabourAssigned/Remove/@Model.LabourAssigned.Id" onclick="return confirm('Are you sure to delete this assigned data?');"><button style="margin-left:10px;" class="btn btn-danger">Delete</button></a>
+</div>

@@ -1,0 +1,49 @@
+﻿@model USP_Application.ViewModels.EmployeeFormViewModel
+<div class="form-group">
+    @Html.LabelFor(m => m.Employee.Name)
+    @Html.TextBoxFor(m => m.Employee.Name, new { @class = "form-control", @placeholder = "Enter new employee name here" })
+</div>
+<div class="form-group">
+    @Html.LabelFor(m => m.Employee.Gender)
+    @Html.DropDownListFor(m => m.Employee.Gender, new SelectList(Enum.GetValues(typeof(Entities.Gender))), "Select gender",
+                                                new { @class = "form-control" })
+    @Html.ValidationMessageFor(m => m.Employee.Gender, "", new { @class = "text-danger" })
+</div>
+@if (!Request.Cookies["LoginType"].Value.Equals("Employee"))
+{
+    <div class="form-group">
+        @Html.LabelFor(m => m.Employee.Salary)
+        @Html.TextBoxFor(m => m.Employee.Salary, new { @class = "form-control", @placeholder = "Ex: 5000, must be numeric" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Employee.Commission)
+        @Html.TextBoxFor(m => m.Employee.Commission, new { @class = "form-control", @placeholder = "Ex: 500, must be numeric" })
+    </div>
+}
+<div class="form-group">
+    @Html.LabelFor(m => m.Employee.Address)
+    @Html.TextBoxFor(m => m.Employee.Address, new { @class = "form-control", @placeholder = "Ex: H:248, Rd:4, Block:F, Bashundhara" })
+</div>
+<div class="form-group">
+    @Html.LabelFor(m => m.UserLogin.Email)
+    @Html.TextBoxFor(m => m.UserLogin.Email, new { @class = "form-control", @type = "email", @placeholder = "Ex: John.Smith@example.com" })
+</div>
+<div class="form-group">
+    @Html.LabelFor(m => m.UserLogin.Phone)
+    @Html.TextBoxFor(m => m.UserLogin.Phone, new { @class = "form-control", @placeholder = "01X-XXXXXXXX" })
+</div>
+<div class="form-group">
+    @Html.LabelFor(m => m.UserLogin.Password)
+    @Html.TextBoxFor(m => m.UserLogin.Password, new { @class = "form-control", @type = "password", @placeholder = "Minimum 6 characters" })
+</div>
+@if (Request.Cookies["LoginType"].Value.Equals("Employee"))
+{
+    @Html.HiddenFor(m => m.Employee.Salary)
+    @Html.HiddenFor(m => m.Employee.Commission)
+}
+@Html.HiddenFor(m => m.Employee.Id)
+@Html.HiddenFor(m => m.Employee.FakeId)
+@Html.HiddenFor(m => m.Employee.JoiningDate)
+@Html.HiddenFor(m => m.UserLogin.Id)
+@Html.HiddenFor(m => m.UserLogin.UserType)
+<p style="min-height:5px;"></p>

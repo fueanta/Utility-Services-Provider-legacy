@@ -1,0 +1,14 @@
+﻿@model USP_Application.ViewModels.CityFormViewModel
+@{
+    ViewBag.Title = Model.City.Name;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Update Information</h2>
+
+@using (Html.BeginForm("CreateOrUpdate", "City"))
+{
+    @Html.Partial("../City/_CityForm", Model)
+
+    <button type="submit" class="btn btn-success">Update</button>
+}

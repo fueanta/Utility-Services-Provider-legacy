@@ -1,0 +1,12 @@
+﻿@{
+    ViewBag.Title = "Register Admin";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h2>Insert New Admin</h2>
+@using (Html.BeginForm("CreateOrUpdate", "Admin"))
+{
+    @Html.Partial("../Admin/_AdminForm")
+    <button type="submit" class="btn btn-primary">Submit</button>
+}
+
+

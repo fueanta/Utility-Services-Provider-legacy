@@ -1,0 +1,19 @@
+﻿@model USP_Application.ViewModels.ServiceRequestFormViewModel
+
+<div class="form-group">
+    @Html.LabelFor(m => m.ServiceRequest.ServiceId)
+    @Html.DropDownListFor(m => m.ServiceRequest.ServiceId, new SelectList(Model.Services, "Id", "ServiceName"), "Select Service",
+                                                new { @class = "form-control", id = "Service" })
+
+    @Html.ValidationMessageFor(m => m.ServiceRequest.ServiceId, "", new { @class = "text-danger" })
+</div>
+<div class="form-group">
+    @Html.LabelFor(m => m.ServiceRequest.ServiceTime)
+    @Html.TextBoxFor(model => model.ServiceRequest.ServiceTime, "{0:dd/MM/yyyy hh:mm tt}", new { @class = "form-control", @type = "datetime-local" })
+
+    @Html.ValidationMessageFor(m => m.ServiceRequest.ServiceTime, "", new { @class = "text-danger" })
+</div>
+
+@Html.HiddenFor(m => m.ServiceRequest.Id)
+<p style="min-height:5px;"></p>
+

@@ -1,0 +1,5 @@
+C:\Users\Taki\source\repos\UtilityServicesProvider\Jsons\bin\Debug\Jsons.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\Jsons\bin\Debug\Jsons.pdb
+C:\Users\Taki\source\repos\UtilityServicesProvider\Jsons\obj\Debug\Jsons.csproj.CoreCompileInputs.cache
+C:\Users\Taki\source\repos\UtilityServicesProvider\Jsons\obj\Debug\Jsons.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\Jsons\obj\Debug\Jsons.pdb

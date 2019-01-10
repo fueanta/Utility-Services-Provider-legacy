@@ -1,0 +1,14 @@
+﻿@model USP_Application.ViewModels.ServiceFormViewModel
+@{
+    ViewBag.Title = Model.Service.ServiceName;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Update Information</h2>
+
+@using (Html.BeginForm("CreateOrUpdate", "Service"))
+{
+    @Html.Partial("../Service/_ServiceForm", Model)
+
+    <button type="submit" class="btn btn-success">Update</button>
+}

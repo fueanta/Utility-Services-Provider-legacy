@@ -1,0 +1,12 @@
+﻿
+@{
+    ViewBag.Title = "Make a Request";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h2>New Request</h2>
+@using (Html.BeginForm("CreateOrUpdate", "ServiceRequest"))
+{
+    @Html.Partial("../ServiceRequest/_ServiceRequestForm")
+    <button type="submit" class="btn btn-primary">Submit</button>
+}
+

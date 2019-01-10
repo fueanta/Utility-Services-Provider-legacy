@@ -1,0 +1,132 @@
+﻿@using Entities;
+@using PagedList;
+@using PagedList.Mvc;
+
+@model PagedList.IPagedList<City>
+@{
+    ViewBag.Title = "CityList";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@section Scripts {
+    <script type="text/jscript">
+$(document).ready(function () {
+            $("#SearchBtn").click(function () {
+                var searchValue = $("#SearchBox").val();
+                var searchBy = $("#SearchBy").val();
+
+                var setData = $("#SearchData");
+                var setPageNumber = $("#PageNumber");
+                var setPager = $("#Pager");
+
+                setData.html("");
+                setPageNumber.html("");
+                setPager.html("");
+
+                $.ajax({
+                    type: "post",
+                    url: "/Json/SearchCityList?searchBy=" + searchBy + "&searchValue=" + searchValue,
+                    contentType: "html",
+                    success: function (result) {
+
+                        if (result.length == 0) {
+                            setData.append('<tr style="color:red"><td colspan="3">Data Not found :(</td></tr>')
+                        }
+                        else {
+                            $.each(result, function (index, value) {
+                                var tableData =
+                                    '<tr>' +
+                                    '<th scope="row">' + value.Id + '</th>' +
+                                    '<td>' + value.Name + '</td>' +
+                                    '<td><a href="/City/Details?id=' + value.Id + '">More</a></td>'
+                                '</tr>';
+                                setData.append(tableData);
+                            });
+                        }
+                    },
+                    error: function () {
+                        alert('An error occurred!');
+                    }
+                });
+            });
+        });
+        $('#SearchBox').keypress(keypressHandler);
+        function keypressHandler(e) {
+            if (e.which == 13) {
+                e.preventDefault();
+                $(this).blur();
+                $('#SearchBtn').focus().click();
+                $('#SearchBox').focus();
+            }
+        }</script>
+}
+<div style="margin-top:40px;" class="col-md-12">
+    <div class="panel panel-heading">
+        <div class="panel-body">
+            <div class="row">
+                <div class="col-md-2">
+                    <p style="font-size:xx-large;">Cities</p>
+                </div>
+                <div style="margin-left:60px;" class="col-md-9">
+                    <div class="row">
+                        <div class="col-md-3">
+                            <select id="SearchBy" name="SearchBy" class="form-control">
+                                <option value="id">Search by Id</option>
+                                <option value="name" selected>Search by Name</option>
+                            </select>
+                        </div>
+                        <div class="col-md-4">
+                            <input id="SearchBox" class="form-control" type="text" placeholder="Search here ..." value="" />
+                        </div>
+                        <div class="col-md-1">
+                            <input id="SearchBtn" class="btn btn-success" type="submit" value="Search" />
+                        </div>
+                        <div style="margin-left:90px;" class="col-md-1">
+                            <a href="/City/Insert/"><button style="margin-left:25px;min-width: 77px;" class="btn btn-warning">Add New City</button></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        @if (Model == null | Model.Count() == 0)
+        {
+            <p>We don't have such City at this moment.</p>
+        }
+        else
+        {
+            <div class="table-responsive">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th scope="col">#</th>
+                            <th scope="col">Name</th>
+                            <th scope="col"></th>
+                        </tr>
+                    </thead>
+                    <tbody id="SearchData">
+                        @foreach (var city in Model)
+                        {
+                            <tr>
+                                <th scope="row">
+                                    @Html.DisplayFor(modelItem => city.Id)
+                                </th>
+                                <td>
+                                    @Html.DisplayFor(modelItem => city.Name)
+                                </td>
+                                <td>
+                                    @Html.ActionLink("More", "Details", "City", new { id = city.Id }, null)
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+            <hr />
+            <label id="PageNumber">
+                Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+            </label>
+        }
+    </div>
+    <div style="margin-top:-15px;" id="Pager">
+        @Html.PagedListPager(Model, page => Url.Action("CityList", new { page = page }))
+    </div>
+</div>

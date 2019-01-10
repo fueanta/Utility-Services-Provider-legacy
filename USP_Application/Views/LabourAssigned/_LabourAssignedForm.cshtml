@@ -1,0 +1,26 @@
+﻿@model USP_Application.ViewModels.LabourAssignedFormViewModel
+
+<div class="form-group">
+    @Html.LabelFor(m => m.LabourAssigned.LabourId)
+    @Html.DropDownListFor(m => m.LabourAssigned.LabourId, new SelectList(Model.Labours, "Id", "Name"), "Select Labour",
+                                                new { @class = "form-control", id = "Labour" })
+
+    @Html.ValidationMessageFor(m => m.LabourAssigned.LabourId, "", new { @class = "text-danger" })
+</div>
+<div class="form-group">
+    @Html.LabelFor(m => m.LabourAssigned.TimeAssigned)
+    @Html.TextBoxFor(m => m.LabourAssigned.TimeAssigned, new { @class = "form-control", @placeholder = "time" })
+</div>
+<div class="form-group">
+    @Html.LabelFor(m => m.LabourAssigned.ServiceRequest.ServiceId)
+    @Html.TextBoxFor(m => m.LabourAssigned.ServiceRequest.Id, new { @class = "form-control", @placeholder = "Service Request Id" })
+</div>
+<div class="form-group">
+    @Html.LabelFor(m => m.LabourAssigned.EmployeeId)
+    @Html.TextBoxFor(m => m.LabourAssigned.Employee.Id, new { @class = "form-control", @placeholder = "Employee Id" })
+</div>
+
+@Html.HiddenFor(m => m.LabourAssigned.Id)
+<p style="min-height:5px;"></p>
+
+

@@ -1,0 +1,12 @@
+﻿@{
+    ViewBag.Title = "Register Service";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h2>Insert New Service Details</h2>
+@using (Html.BeginForm("CreateOrUpdate", "Service"))
+{
+    @Html.Partial("../Service/_ServiceForm")
+    <button type="submit" class="btn btn-primary">Submit</button>
+}
+
+

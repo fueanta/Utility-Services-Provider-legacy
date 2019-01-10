@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewBag.Title = "Add New Area";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Insert New Area Information</h2>
+
+@using (Html.BeginForm("CreateOrUpdate", "Area"))
+{
+    @Html.Partial("../Area/_AreaForm")
+    <button type="submit" class="btn btn-primary">Submit</button>
+}
+
+

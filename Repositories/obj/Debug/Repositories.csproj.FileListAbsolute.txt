@@ -1,0 +1,160 @@
+C:\Users\Taki\source\repos\UtilityServicesProvider\Repositories\bin\Debug\Repositories.dll.config
+C:\Users\Taki\source\repos\UtilityServicesProvider\Repositories\bin\Debug\Repositories.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\Repositories\bin\Debug\Repositories.pdb
+C:\Users\Taki\source\repos\UtilityServicesProvider\Repositories\bin\Debug\Data.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\Repositories\bin\Debug\Entities.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\Repositories\bin\Debug\EntityFramework.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\Repositories\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\Repositories\bin\Debug\Interfaces.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\Repositories\bin\Debug\System.Web.Mvc.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\Repositories\bin\Debug\Data.pdb
+C:\Users\Taki\source\repos\UtilityServicesProvider\Repositories\bin\Debug\Data.dll.config
+C:\Users\Taki\source\repos\UtilityServicesProvider\Repositories\bin\Debug\Entities.pdb
+C:\Users\Taki\source\repos\UtilityServicesProvider\Repositories\bin\Debug\Interfaces.pdb
+C:\Users\Taki\source\repos\UtilityServicesProvider\Repositories\bin\Debug\EntityFramework.xml
+C:\Users\Taki\source\repos\UtilityServicesProvider\Repositories\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Taki\source\repos\UtilityServicesProvider\Repositories\obj\Debug\Repositories.csprojAssemblyReference.cache
+C:\Users\Taki\source\repos\UtilityServicesProvider\Repositories\obj\Debug\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Taki\source\repos\UtilityServicesProvider\Repositories\obj\Debug\Repositories.csproj.CopyComplete
+C:\Users\Taki\source\repos\UtilityServicesProvider\Repositories\obj\Debug\Repositories.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\Repositories\obj\Debug\Repositories.pdb
+C:\Users\Taki\source\repos\UtilityServicesProvider\Repositories\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\Repositories\bin\Debug\System.Web.Helpers.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\Repositories\bin\Debug\System.Web.Razor.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\Repositories\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\Repositories\bin\Debug\System.Web.WebPages.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\Repositories\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\Repositories\bin\Debug\System.Web.Helpers.xml
+C:\Users\Taki\source\repos\UtilityServicesProvider\Repositories\bin\Debug\System.Web.Mvc.xml
+C:\Users\Taki\source\repos\UtilityServicesProvider\Repositories\bin\Debug\System.Web.Razor.xml
+C:\Users\Taki\source\repos\UtilityServicesProvider\Repositories\bin\Debug\System.Web.WebPages.xml
+C:\Users\Taki\source\repos\UtilityServicesProvider\Repositories\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Taki\source\repos\UtilityServicesProvider\Repositories\bin\Debug\System.Web.WebPages.Razor.xml
+H:\atp current\Utility-Services-Provider-master\Repositories\bin\Debug\Repositories.dll.config
+H:\atp current\Utility-Services-Provider-master\Repositories\bin\Debug\Repositories.dll
+H:\atp current\Utility-Services-Provider-master\Repositories\bin\Debug\Repositories.pdb
+H:\atp current\Utility-Services-Provider-master\Repositories\bin\Debug\Data.dll
+H:\atp current\Utility-Services-Provider-master\Repositories\bin\Debug\Entities.dll
+H:\atp current\Utility-Services-Provider-master\Repositories\bin\Debug\EntityFramework.dll
+H:\atp current\Utility-Services-Provider-master\Repositories\bin\Debug\EntityFramework.SqlServer.dll
+H:\atp current\Utility-Services-Provider-master\Repositories\bin\Debug\Interfaces.dll
+H:\atp current\Utility-Services-Provider-master\Repositories\bin\Debug\Microsoft.Web.Infrastructure.dll
+H:\atp current\Utility-Services-Provider-master\Repositories\bin\Debug\System.Web.Helpers.dll
+H:\atp current\Utility-Services-Provider-master\Repositories\bin\Debug\System.Web.Mvc.dll
+H:\atp current\Utility-Services-Provider-master\Repositories\bin\Debug\System.Web.Razor.dll
+H:\atp current\Utility-Services-Provider-master\Repositories\bin\Debug\System.Web.WebPages.Deployment.dll
+H:\atp current\Utility-Services-Provider-master\Repositories\bin\Debug\System.Web.WebPages.dll
+H:\atp current\Utility-Services-Provider-master\Repositories\bin\Debug\System.Web.WebPages.Razor.dll
+H:\atp current\Utility-Services-Provider-master\Repositories\bin\Debug\Data.pdb
+H:\atp current\Utility-Services-Provider-master\Repositories\bin\Debug\Data.dll.config
+H:\atp current\Utility-Services-Provider-master\Repositories\bin\Debug\Entities.pdb
+H:\atp current\Utility-Services-Provider-master\Repositories\bin\Debug\Interfaces.pdb
+H:\atp current\Utility-Services-Provider-master\Repositories\bin\Debug\EntityFramework.xml
+H:\atp current\Utility-Services-Provider-master\Repositories\bin\Debug\EntityFramework.SqlServer.xml
+H:\atp current\Utility-Services-Provider-master\Repositories\bin\Debug\System.Web.Helpers.xml
+H:\atp current\Utility-Services-Provider-master\Repositories\bin\Debug\System.Web.Mvc.xml
+H:\atp current\Utility-Services-Provider-master\Repositories\bin\Debug\System.Web.Razor.xml
+H:\atp current\Utility-Services-Provider-master\Repositories\bin\Debug\System.Web.WebPages.xml
+H:\atp current\Utility-Services-Provider-master\Repositories\bin\Debug\System.Web.WebPages.Deployment.xml
+H:\atp current\Utility-Services-Provider-master\Repositories\bin\Debug\System.Web.WebPages.Razor.xml
+H:\atp current\Utility-Services-Provider-master\Repositories\obj\Debug\Repositories.csprojAssemblyReference.cache
+H:\atp current\Utility-Services-Provider-master\Repositories\obj\Debug\Repositories.csproj.CoreCompileInputs.cache
+H:\atp current\Utility-Services-Provider-master\Repositories\obj\Debug\Repositories.csproj.CopyComplete
+H:\atp current\Utility-Services-Provider-master\Repositories\obj\Debug\Repositories.dll
+H:\atp current\Utility-Services-Provider-master\Repositories\obj\Debug\Repositories.pdb
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\Repositories\bin\Debug\Repositories.dll.config
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\Repositories\bin\Debug\Repositories.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\Repositories\bin\Debug\Repositories.pdb
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\Repositories\bin\Debug\Data.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\Repositories\bin\Debug\Entities.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\Repositories\bin\Debug\EntityFramework.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\Repositories\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\Repositories\bin\Debug\Interfaces.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\Repositories\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\Repositories\bin\Debug\System.Web.Helpers.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\Repositories\bin\Debug\System.Web.Mvc.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\Repositories\bin\Debug\System.Web.Razor.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\Repositories\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\Repositories\bin\Debug\System.Web.WebPages.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\Repositories\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\Repositories\bin\Debug\Data.pdb
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\Repositories\bin\Debug\Data.dll.config
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\Repositories\bin\Debug\Entities.pdb
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\Repositories\bin\Debug\Interfaces.pdb
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\Repositories\bin\Debug\EntityFramework.xml
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\Repositories\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\Repositories\bin\Debug\System.Web.Helpers.xml
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\Repositories\bin\Debug\System.Web.Mvc.xml
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\Repositories\bin\Debug\System.Web.Razor.xml
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\Repositories\bin\Debug\System.Web.WebPages.xml
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\Repositories\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\Repositories\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\Repositories\obj\Debug\Repositories.csprojAssemblyReference.cache
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\Repositories\obj\Debug\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\Repositories\obj\Debug\Repositories.csproj.CopyComplete
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\Repositories\obj\Debug\Repositories.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\Repositories\obj\Debug\Repositories.pdb
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\Repositories\bin\Debug\Repositories.dll.config
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\Repositories\bin\Debug\Repositories.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\Repositories\bin\Debug\Repositories.pdb
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\Repositories\bin\Debug\Data.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\Repositories\bin\Debug\Entities.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\Repositories\bin\Debug\EntityFramework.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\Repositories\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\Repositories\bin\Debug\Interfaces.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\Repositories\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\Repositories\bin\Debug\System.Web.Helpers.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\Repositories\bin\Debug\System.Web.Mvc.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\Repositories\bin\Debug\System.Web.Razor.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\Repositories\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\Repositories\bin\Debug\System.Web.WebPages.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\Repositories\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\Repositories\bin\Debug\Data.pdb
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\Repositories\bin\Debug\Data.dll.config
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\Repositories\bin\Debug\Entities.pdb
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\Repositories\bin\Debug\Interfaces.pdb
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\Repositories\bin\Debug\EntityFramework.xml
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\Repositories\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\Repositories\bin\Debug\System.Web.Helpers.xml
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\Repositories\bin\Debug\System.Web.Mvc.xml
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\Repositories\bin\Debug\System.Web.Razor.xml
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\Repositories\bin\Debug\System.Web.WebPages.xml
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\Repositories\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\Repositories\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\Repositories\obj\Debug\Repositories.csprojAssemblyReference.cache
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\Repositories\obj\Debug\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\Repositories\obj\Debug\Repositories.csproj.CopyComplete
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\Repositories\obj\Debug\Repositories.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\Repositories\obj\Debug\Repositories.pdb
+D:\#Study Materials\#AIUB\S. AIUB Fall 18-19\00017 - ADVANCED TOPICS IN PROGRAMMING II [A]\Project\Utility Services Provider\Source Code\Utility-Services-Provider-master\Repositories\bin\Debug\Repositories.dll.config
+D:\#Study Materials\#AIUB\S. AIUB Fall 18-19\00017 - ADVANCED TOPICS IN PROGRAMMING II [A]\Project\Utility Services Provider\Source Code\Utility-Services-Provider-master\Repositories\bin\Debug\Repositories.dll
+D:\#Study Materials\#AIUB\S. AIUB Fall 18-19\00017 - ADVANCED TOPICS IN PROGRAMMING II [A]\Project\Utility Services Provider\Source Code\Utility-Services-Provider-master\Repositories\bin\Debug\Repositories.pdb
+D:\#Study Materials\#AIUB\S. AIUB Fall 18-19\00017 - ADVANCED TOPICS IN PROGRAMMING II [A]\Project\Utility Services Provider\Source Code\Utility-Services-Provider-master\Repositories\bin\Debug\Data.dll
+D:\#Study Materials\#AIUB\S. AIUB Fall 18-19\00017 - ADVANCED TOPICS IN PROGRAMMING II [A]\Project\Utility Services Provider\Source Code\Utility-Services-Provider-master\Repositories\bin\Debug\Entities.dll
+D:\#Study Materials\#AIUB\S. AIUB Fall 18-19\00017 - ADVANCED TOPICS IN PROGRAMMING II [A]\Project\Utility Services Provider\Source Code\Utility-Services-Provider-master\Repositories\bin\Debug\EntityFramework.dll
+D:\#Study Materials\#AIUB\S. AIUB Fall 18-19\00017 - ADVANCED TOPICS IN PROGRAMMING II [A]\Project\Utility Services Provider\Source Code\Utility-Services-Provider-master\Repositories\bin\Debug\EntityFramework.SqlServer.dll
+D:\#Study Materials\#AIUB\S. AIUB Fall 18-19\00017 - ADVANCED TOPICS IN PROGRAMMING II [A]\Project\Utility Services Provider\Source Code\Utility-Services-Provider-master\Repositories\bin\Debug\Interfaces.dll
+D:\#Study Materials\#AIUB\S. AIUB Fall 18-19\00017 - ADVANCED TOPICS IN PROGRAMMING II [A]\Project\Utility Services Provider\Source Code\Utility-Services-Provider-master\Repositories\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\#Study Materials\#AIUB\S. AIUB Fall 18-19\00017 - ADVANCED TOPICS IN PROGRAMMING II [A]\Project\Utility Services Provider\Source Code\Utility-Services-Provider-master\Repositories\bin\Debug\System.Web.Helpers.dll
+D:\#Study Materials\#AIUB\S. AIUB Fall 18-19\00017 - ADVANCED TOPICS IN PROGRAMMING II [A]\Project\Utility Services Provider\Source Code\Utility-Services-Provider-master\Repositories\bin\Debug\System.Web.Mvc.dll
+D:\#Study Materials\#AIUB\S. AIUB Fall 18-19\00017 - ADVANCED TOPICS IN PROGRAMMING II [A]\Project\Utility Services Provider\Source Code\Utility-Services-Provider-master\Repositories\bin\Debug\System.Web.Razor.dll
+D:\#Study Materials\#AIUB\S. AIUB Fall 18-19\00017 - ADVANCED TOPICS IN PROGRAMMING II [A]\Project\Utility Services Provider\Source Code\Utility-Services-Provider-master\Repositories\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\#Study Materials\#AIUB\S. AIUB Fall 18-19\00017 - ADVANCED TOPICS IN PROGRAMMING II [A]\Project\Utility Services Provider\Source Code\Utility-Services-Provider-master\Repositories\bin\Debug\System.Web.WebPages.dll
+D:\#Study Materials\#AIUB\S. AIUB Fall 18-19\00017 - ADVANCED TOPICS IN PROGRAMMING II [A]\Project\Utility Services Provider\Source Code\Utility-Services-Provider-master\Repositories\bin\Debug\System.Web.WebPages.Razor.dll
+D:\#Study Materials\#AIUB\S. AIUB Fall 18-19\00017 - ADVANCED TOPICS IN PROGRAMMING II [A]\Project\Utility Services Provider\Source Code\Utility-Services-Provider-master\Repositories\bin\Debug\Data.pdb
+D:\#Study Materials\#AIUB\S. AIUB Fall 18-19\00017 - ADVANCED TOPICS IN PROGRAMMING II [A]\Project\Utility Services Provider\Source Code\Utility-Services-Provider-master\Repositories\bin\Debug\Data.dll.config
+D:\#Study Materials\#AIUB\S. AIUB Fall 18-19\00017 - ADVANCED TOPICS IN PROGRAMMING II [A]\Project\Utility Services Provider\Source Code\Utility-Services-Provider-master\Repositories\bin\Debug\Entities.pdb
+D:\#Study Materials\#AIUB\S. AIUB Fall 18-19\00017 - ADVANCED TOPICS IN PROGRAMMING II [A]\Project\Utility Services Provider\Source Code\Utility-Services-Provider-master\Repositories\bin\Debug\Interfaces.pdb
+D:\#Study Materials\#AIUB\S. AIUB Fall 18-19\00017 - ADVANCED TOPICS IN PROGRAMMING II [A]\Project\Utility Services Provider\Source Code\Utility-Services-Provider-master\Repositories\bin\Debug\EntityFramework.xml
+D:\#Study Materials\#AIUB\S. AIUB Fall 18-19\00017 - ADVANCED TOPICS IN PROGRAMMING II [A]\Project\Utility Services Provider\Source Code\Utility-Services-Provider-master\Repositories\bin\Debug\EntityFramework.SqlServer.xml
+D:\#Study Materials\#AIUB\S. AIUB Fall 18-19\00017 - ADVANCED TOPICS IN PROGRAMMING II [A]\Project\Utility Services Provider\Source Code\Utility-Services-Provider-master\Repositories\bin\Debug\System.Web.Helpers.xml
+D:\#Study Materials\#AIUB\S. AIUB Fall 18-19\00017 - ADVANCED TOPICS IN PROGRAMMING II [A]\Project\Utility Services Provider\Source Code\Utility-Services-Provider-master\Repositories\bin\Debug\System.Web.Mvc.xml
+D:\#Study Materials\#AIUB\S. AIUB Fall 18-19\00017 - ADVANCED TOPICS IN PROGRAMMING II [A]\Project\Utility Services Provider\Source Code\Utility-Services-Provider-master\Repositories\bin\Debug\System.Web.Razor.xml
+D:\#Study Materials\#AIUB\S. AIUB Fall 18-19\00017 - ADVANCED TOPICS IN PROGRAMMING II [A]\Project\Utility Services Provider\Source Code\Utility-Services-Provider-master\Repositories\bin\Debug\System.Web.WebPages.xml
+D:\#Study Materials\#AIUB\S. AIUB Fall 18-19\00017 - ADVANCED TOPICS IN PROGRAMMING II [A]\Project\Utility Services Provider\Source Code\Utility-Services-Provider-master\Repositories\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\#Study Materials\#AIUB\S. AIUB Fall 18-19\00017 - ADVANCED TOPICS IN PROGRAMMING II [A]\Project\Utility Services Provider\Source Code\Utility-Services-Provider-master\Repositories\bin\Debug\System.Web.WebPages.Razor.xml
+D:\#Study Materials\#AIUB\S. AIUB Fall 18-19\00017 - ADVANCED TOPICS IN PROGRAMMING II [A]\Project\Utility Services Provider\Source Code\Utility-Services-Provider-master\Repositories\obj\Debug\Repositories.csprojAssemblyReference.cache
+D:\#Study Materials\#AIUB\S. AIUB Fall 18-19\00017 - ADVANCED TOPICS IN PROGRAMMING II [A]\Project\Utility Services Provider\Source Code\Utility-Services-Provider-master\Repositories\obj\Debug\Repositories.csproj.CoreCompileInputs.cache
+D:\#Study Materials\#AIUB\S. AIUB Fall 18-19\00017 - ADVANCED TOPICS IN PROGRAMMING II [A]\Project\Utility Services Provider\Source Code\Utility-Services-Provider-master\Repositories\obj\Debug\Repositories.csproj.CopyComplete
+D:\#Study Materials\#AIUB\S. AIUB Fall 18-19\00017 - ADVANCED TOPICS IN PROGRAMMING II [A]\Project\Utility Services Provider\Source Code\Utility-Services-Provider-master\Repositories\obj\Debug\Repositories.dll
+D:\#Study Materials\#AIUB\S. AIUB Fall 18-19\00017 - ADVANCED TOPICS IN PROGRAMMING II [A]\Project\Utility Services Provider\Source Code\Utility-Services-Provider-master\Repositories\obj\Debug\Repositories.pdb

@@ -1,0 +1,45 @@
+C:\Users\Taki\source\repos\UtilityServicesProvider\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Taki\source\repos\UtilityServicesProvider\Interfaces\bin\Debug\Entities.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\Interfaces\bin\Debug\Entities.pdb
+C:\Users\Taki\source\repos\UtilityServicesProvider\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+C:\Users\Taki\source\repos\UtilityServicesProvider\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Taki\source\repos\UtilityServicesProvider\Interfaces\obj\Debug\Interfaces.csproj.CopyComplete
+C:\Users\Taki\source\repos\UtilityServicesProvider\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\Interfaces\obj\Debug\Interfaces.pdb
+H:\atp current\Utility-Services-Provider-master\Interfaces\bin\Debug\Interfaces.dll
+H:\atp current\Utility-Services-Provider-master\Interfaces\bin\Debug\Interfaces.pdb
+H:\atp current\Utility-Services-Provider-master\Interfaces\bin\Debug\Entities.dll
+H:\atp current\Utility-Services-Provider-master\Interfaces\bin\Debug\Entities.pdb
+H:\atp current\Utility-Services-Provider-master\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+H:\atp current\Utility-Services-Provider-master\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+H:\atp current\Utility-Services-Provider-master\Interfaces\obj\Debug\Interfaces.csproj.CopyComplete
+H:\atp current\Utility-Services-Provider-master\Interfaces\obj\Debug\Interfaces.dll
+H:\atp current\Utility-Services-Provider-master\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\Interfaces\bin\Debug\Entities.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\Interfaces\bin\Debug\Entities.pdb
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\Interfaces\obj\Debug\Interfaces.csproj.CopyComplete
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\Interfaces\bin\Debug\Entities.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\Interfaces\bin\Debug\Entities.pdb
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\Interfaces\obj\Debug\Interfaces.csproj.CopyComplete
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\Interfaces\obj\Debug\Interfaces.pdb
+D:\#Study Materials\#AIUB\S. AIUB Fall 18-19\00017 - ADVANCED TOPICS IN PROGRAMMING II [A]\Project\Utility Services Provider\Source Code\Utility-Services-Provider-master\Interfaces\bin\Debug\Interfaces.dll
+D:\#Study Materials\#AIUB\S. AIUB Fall 18-19\00017 - ADVANCED TOPICS IN PROGRAMMING II [A]\Project\Utility Services Provider\Source Code\Utility-Services-Provider-master\Interfaces\bin\Debug\Interfaces.pdb
+D:\#Study Materials\#AIUB\S. AIUB Fall 18-19\00017 - ADVANCED TOPICS IN PROGRAMMING II [A]\Project\Utility Services Provider\Source Code\Utility-Services-Provider-master\Interfaces\bin\Debug\Entities.dll
+D:\#Study Materials\#AIUB\S. AIUB Fall 18-19\00017 - ADVANCED TOPICS IN PROGRAMMING II [A]\Project\Utility Services Provider\Source Code\Utility-Services-Provider-master\Interfaces\bin\Debug\Entities.pdb
+D:\#Study Materials\#AIUB\S. AIUB Fall 18-19\00017 - ADVANCED TOPICS IN PROGRAMMING II [A]\Project\Utility Services Provider\Source Code\Utility-Services-Provider-master\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+D:\#Study Materials\#AIUB\S. AIUB Fall 18-19\00017 - ADVANCED TOPICS IN PROGRAMMING II [A]\Project\Utility Services Provider\Source Code\Utility-Services-Provider-master\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+D:\#Study Materials\#AIUB\S. AIUB Fall 18-19\00017 - ADVANCED TOPICS IN PROGRAMMING II [A]\Project\Utility Services Provider\Source Code\Utility-Services-Provider-master\Interfaces\obj\Debug\Interfaces.csproj.CopyComplete
+D:\#Study Materials\#AIUB\S. AIUB Fall 18-19\00017 - ADVANCED TOPICS IN PROGRAMMING II [A]\Project\Utility Services Provider\Source Code\Utility-Services-Provider-master\Interfaces\obj\Debug\Interfaces.dll
+D:\#Study Materials\#AIUB\S. AIUB Fall 18-19\00017 - ADVANCED TOPICS IN PROGRAMMING II [A]\Project\Utility Services Provider\Source Code\Utility-Services-Provider-master\Interfaces\obj\Debug\Interfaces.pdb

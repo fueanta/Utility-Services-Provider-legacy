@@ -1,0 +1,12 @@
+﻿@{
+    ViewBag.Title = "Register Employee";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Insert New Employee Details</h2>
+
+@using (Html.BeginForm("CreateOrUpdate", "Employee"))
+{
+    @Html.Partial("../Employee/_EmployeeForm")
+    <button type="submit" class="btn btn-primary">Submit</button>
+}

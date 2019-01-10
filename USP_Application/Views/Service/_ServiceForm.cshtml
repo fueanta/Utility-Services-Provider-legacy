@@ -1,0 +1,18 @@
+﻿@model USP_Application.ViewModels.ServiceFormViewModel
+
+<div class="form-group">
+    @Html.LabelFor(m => m.Service.ServiceName)
+    @Html.TextBoxFor(m => m.Service.ServiceName, new { @class = "form-control", @placeholder = "Enter new service name here" })
+</div>
+<div class="form-group">
+    @Html.LabelFor(m => m.Service.ServiceCost)
+    @Html.TextBoxFor(m => m.Service.ServiceCost, new { @class = "form-control", @placeholder = "Ex: 500, must be numeric" })
+</div>
+<div class="form-group">
+    @Html.LabelFor(m => m.Service.LabourCharge)
+    @Html.TextBoxFor(m => m.Service.LabourCharge, new { @class = "form-control", @placeholder = "Ex: 500, must be numeric" })
+</div>
+
+@Html.HiddenFor(m => m.Service.Id)
+<p style="min-height:5px;"></p>
+

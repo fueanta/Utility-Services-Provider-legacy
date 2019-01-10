@@ -1,0 +1,12 @@
+﻿
+@{
+    ViewBag.Title = "Add New Service Map";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h2>Insert New Sarvice Map Information</h2>
+@using (Html.BeginForm("CreateOrUpdate", "LabourServiceMap"))
+{
+    @Html.Partial("../LabourServiceMap/_LabourServiceMapForm")
+    <button type="submit" class="btn btn-primary">Submit</button>
+}
+

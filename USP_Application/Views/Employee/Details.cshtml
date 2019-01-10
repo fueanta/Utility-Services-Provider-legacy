@@ -1,0 +1,23 @@
+﻿@model USP_Application.ViewModels.EmployeeFormViewModel
+
+@{
+    ViewBag.Title = Model.Employee.Name;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<ul>
+    <li>Name : @Model.Employee.Name</li>
+    <li>Gender : @Model.Employee.Gender</li>
+    <li>Salary : @Model.Employee.Salary Tk</li>
+    <li>Commission : @Model.Employee.Commission Tk</li>
+    <li>Address : @Model.Employee.Address</li>
+    <li>Email : @Model.UserLogin.Email</li>
+    <li>Phone : @Model.UserLogin.Phone</li>
+</ul>
+
+<div style="margin-top:20px;">
+    <a href="/Employee/Edit/@Model.UserLogin.Id"><button style="margin-left:25px;min-width: 77px;" class="btn btn-warning">Edit</button></a>
+    <a href="/Employee/Remove/@Model.UserLogin.Id" onclick="return confirm('Are you sure to delete this employee?');"><button style="margin-left:10px;" class="btn btn-danger">Delete</button></a>
+</div>

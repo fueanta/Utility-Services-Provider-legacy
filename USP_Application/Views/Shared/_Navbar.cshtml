@@ -1,0 +1,30 @@
+﻿<div class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            @Html.ActionLink("USP", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+        </div>
+        <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+                @*<li>@Html.ActionLink("Clients", "ClientList", "Client")</li>
+                <li>@Html.ActionLink("Employees", "EmployeeList", "Employee")</li>
+                <li>@Html.ActionLink("Labours", "LabourList", "Labour")</li>
+                <li>@Html.ActionLink("Areas", "AreaList", "Area")</li>
+                <li>@Html.ActionLink("Cities", "CityList", "City")</li>
+                <li>@Html.ActionLink("Services", "ServiceList", "Service")</li>
+                <li>@Html.ActionLink("Admins", "AdminList", "Admin")</li>
+                <li>@Html.ActionLink("LabServMap", "LabourServiceMapList", "LabourServiceMap")</li>
+                <li>@Html.ActionLink("SvrReq", "ServiceRequestList", "ServiceRequest")</li>
+                <li>@Html.ActionLink("LabAssign", "LabourAssignedList", "LabourAssigned")</li>*@
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+                <li>@Html.ActionLink("Register", "Register", "Home")</li>
+                <li>@Html.ActionLink("Log In", "Login", "Home")</li>
+            </ul>
+        </div>
+    </div>
+</div>

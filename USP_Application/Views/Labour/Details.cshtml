@@ -1,0 +1,23 @@
+﻿@model USP_Application.ViewModels.LabourFormViewModel
+@{
+    ViewBag.Title = Model.Labour.Name;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<ul>
+    <li>Name : @Model.Labour.Name</li>
+    <li>Wallet : @Model.Labour.Wallet</li>
+    <li>Gender : @Model.Labour.Gender</li>
+    <li>City : @Model.Labour.City.Name</li>
+    <li>Area : @Model.Labour.Area.Name</li>
+    <li>Address : @Model.Labour.Address</li>
+    <li>Email : @Model.UserLogin.Email</li>
+    <li>Phone : @Model.UserLogin.Phone</li>
+</ul>
+
+<div style="margin-top:20px;">
+    <a href="/Labour/Edit/@Model.UserLogin.Id"><button style="margin-left:25px;min-width: 77px;" class="btn btn-warning">Edit</button></a>
+    <a href="/Labour/Remove/@Model.UserLogin.Id" onclick="return confirm('Are you sure to delete this labour?');"><button style="margin-left:10px;" class="btn btn-danger">Delete</button></a>
+</div>

@@ -1,0 +1,6 @@
+C:\Users\Taki\source\repos\UtilityServicesProvider\Repository\bin\Debug\Repository.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\Repository\bin\Debug\Repository.pdb
+C:\Users\Taki\source\repos\UtilityServicesProvider\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+C:\Users\Taki\source\repos\UtilityServicesProvider\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Taki\source\repos\UtilityServicesProvider\Repository\obj\Debug\Repository.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\Repository\obj\Debug\Repository.pdb

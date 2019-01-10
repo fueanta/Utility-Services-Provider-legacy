@@ -1,0 +1,30 @@
+C:\Users\Taki\source\repos\UtilityServicesProvider\Entities\bin\Debug\Entities.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\Entities\bin\Debug\Entities.pdb
+C:\Users\Taki\source\repos\UtilityServicesProvider\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\Taki\source\repos\UtilityServicesProvider\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Taki\source\repos\UtilityServicesProvider\Entities\obj\Debug\Entities.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\Entities\obj\Debug\Entities.pdb
+H:\atp current\Utility-Services-Provider-master\Entities\bin\Debug\Entities.dll
+H:\atp current\Utility-Services-Provider-master\Entities\bin\Debug\Entities.pdb
+H:\atp current\Utility-Services-Provider-master\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+H:\atp current\Utility-Services-Provider-master\Entities\obj\Debug\Entities.dll
+H:\atp current\Utility-Services-Provider-master\Entities\obj\Debug\Entities.pdb
+H:\atp current\Utility-Services-Provider-master\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\Entities\bin\Debug\Entities.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\Entities\bin\Debug\Entities.pdb
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\Entities\obj\Debug\Entities.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\Entities\obj\Debug\Entities.pdb
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\Entities\bin\Debug\Entities.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\Entities\bin\Debug\Entities.pdb
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\Entities\obj\Debug\Entities.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\Entities\obj\Debug\Entities.pdb
+D:\#Study Materials\#AIUB\S. AIUB Fall 18-19\00017 - ADVANCED TOPICS IN PROGRAMMING II [A]\Project\Utility Services Provider\Source Code\Utility-Services-Provider-master\Entities\bin\Debug\Entities.dll
+D:\#Study Materials\#AIUB\S. AIUB Fall 18-19\00017 - ADVANCED TOPICS IN PROGRAMMING II [A]\Project\Utility Services Provider\Source Code\Utility-Services-Provider-master\Entities\bin\Debug\Entities.pdb
+D:\#Study Materials\#AIUB\S. AIUB Fall 18-19\00017 - ADVANCED TOPICS IN PROGRAMMING II [A]\Project\Utility Services Provider\Source Code\Utility-Services-Provider-master\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+D:\#Study Materials\#AIUB\S. AIUB Fall 18-19\00017 - ADVANCED TOPICS IN PROGRAMMING II [A]\Project\Utility Services Provider\Source Code\Utility-Services-Provider-master\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+D:\#Study Materials\#AIUB\S. AIUB Fall 18-19\00017 - ADVANCED TOPICS IN PROGRAMMING II [A]\Project\Utility Services Provider\Source Code\Utility-Services-Provider-master\Entities\obj\Debug\Entities.dll
+D:\#Study Materials\#AIUB\S. AIUB Fall 18-19\00017 - ADVANCED TOPICS IN PROGRAMMING II [A]\Project\Utility Services Provider\Source Code\Utility-Services-Provider-master\Entities\obj\Debug\Entities.pdb

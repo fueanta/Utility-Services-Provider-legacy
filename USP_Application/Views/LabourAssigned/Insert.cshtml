@@ -1,0 +1,12 @@
+﻿
+@{
+    ViewBag.Title = "Add New Labour Assigned";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h2>Insert New Service Request Information</h2>
+@using (Html.BeginForm("CreateOrUpdate", "LabourAssigned"))
+{
+    @Html.Partial("../LabourAssigned/_LabourAssignedForm")
+    <button type="submit" class="btn btn-primary">Submit</button>
+}
+

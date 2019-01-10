@@ -1,0 +1,19 @@
+﻿@model USP_Application.ViewModels.ServiceRequestFormViewModel
+
+@{
+    ViewBag.Title = Model.ServiceRequest.Service.ServiceName;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+<ul>
+    <li>Service Name : @Model.ServiceRequest.Service.ServiceName</li>
+    <li>Service Cost : @Model.ServiceRequest.Service.ServiceCost BDT</li>
+    <li>Client Name  : @Model.ServiceRequest.Client.Name</li>
+    <li>Service Time : @Model.ServiceRequest.ServiceTime </li>
+    <li>Service Status : @Model.ServiceRequest.Status</li>
+</ul>
+<div style="margin-top:20px;">
+    <a href="/ServiceRequest/Edit/@Model.ServiceRequest.Id"><button style="margin-left:25px;min-width: 77px;" class="btn btn-warning">Edit</button></a>
+    <a href="/ServiceRequest/Remove/@Model.ServiceRequest.Id" onclick="return confirm('Are you sure to delete this service request?');"><button style="margin-left:10px;" class="btn btn-danger">Delete</button></a>
+</div>

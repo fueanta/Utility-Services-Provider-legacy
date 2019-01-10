@@ -1,0 +1,17 @@
+﻿@model USP_Application.ViewModels.ServiceFormViewModel
+
+@{
+    ViewBag.Title = Model.Service.ServiceName;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+<ul>
+    <li>Service Name : @Model.Service.ServiceName</li>
+    <li>Service Cost : @Model.Service.ServiceCost BDT</li>
+    <li>Labour Charge: @Model.Service.LabourCharge BDT</li>
+</ul>
+<div style="margin-top:20px;">
+    <a href="/Service/Edit/@Model.Service.Id"><button style="margin-left:25px;min-width: 77px;" class="btn btn-warning">Edit</button></a>
+    <a href="/Service/Remove/@Model.Service.Id" onclick="return confirm('Are you sure to delete this service?');"><button style="margin-left:10px;" class="btn btn-danger">Delete</button></a>
+</div>

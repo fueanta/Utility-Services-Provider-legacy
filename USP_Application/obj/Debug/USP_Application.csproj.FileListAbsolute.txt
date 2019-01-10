@@ -1,0 +1,462 @@
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\USP_Application.dll.config
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\USP_Application.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\USP_Application.pdb
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\roslyn\csc.exe
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\roslyn\csc.exe.config
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\roslyn\csc.rsp
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\roslyn\csi.exe
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\roslyn\csi.exe.config
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\roslyn\csi.rsp
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\roslyn\System.AppContext.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\roslyn\System.Console.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\roslyn\System.IO.Compression.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\roslyn\System.Security.Claims.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\roslyn\System.ValueTuple.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\roslyn\vbc.exe
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\roslyn\vbc.exe.config
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\roslyn\vbc.rsp
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\roslyn\VBCSCompiler.exe
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\Antlr3.Runtime.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\CommonServiceLocator.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\Data.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\Entities.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\EntityFramework.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\EntityFramework.SqlServer.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\Interfaces.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\Newtonsoft.Json.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\PagedList.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\PagedList.Mvc.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\Repositories.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\System.Web.Helpers.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\System.Web.Mvc.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\System.Web.Optimization.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\System.Web.Razor.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\System.Web.WebPages.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\System.Web.WebPages.Razor.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\Unity.Abstractions.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\Unity.Configuration.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\Unity.Container.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\Unity.Interception.Configuration.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\Unity.Interception.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\Unity.Mvc5.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\Unity.RegistrationByConvention.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\Unity.ServiceLocation.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\WebGrease.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\Data.pdb
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\Data.dll.config
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\Entities.pdb
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\Interfaces.pdb
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\Repositories.pdb
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\Repositories.dll.config
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\CommonServiceLocator.pdb
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\EntityFramework.xml
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\EntityFramework.SqlServer.xml
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\PagedList.xml
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\PagedList.Mvc.xml
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\System.Web.Helpers.xml
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\System.Web.Mvc.xml
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\System.Web.Razor.xml
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\System.Web.WebPages.xml
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\System.Web.WebPages.Razor.xml
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\System.Web.Optimization.xml
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\Newtonsoft.Json.xml
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\Unity.Abstractions.pdb
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\Unity.Configuration.pdb
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\Unity.Container.pdb
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\Unity.Interception.pdb
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\Unity.Interception.Configuration.pdb
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\Unity.RegistrationByConvention.pdb
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\Unity.ServiceLocation.pdb
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\Antlr3.Runtime.pdb
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\obj\Debug\USP_Application.csprojAssemblyReference.cache
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\obj\Debug\USP_Application.csproj.CoreCompileInputs.cache
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\obj\Debug\USP_Application.csproj.CopyComplete
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\obj\Debug\USP_Application.dll
+C:\Users\Taki\source\repos\UtilityServicesProvider\USP_Application\obj\Debug\USP_Application.pdb
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\USP_Application.dll.config
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\USP_Application.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\USP_Application.pdb
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\roslyn\csc.exe
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\roslyn\csc.exe.config
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\roslyn\csc.rsp
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\roslyn\csi.exe
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\roslyn\csi.exe.config
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\roslyn\csi.rsp
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\roslyn\Microsoft.Managed.Core.targets
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.AppContext.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.Collections.Immutable.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.Console.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.IO.Compression.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.IO.FileSystem.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.IO.Pipes.AccessControl.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.IO.Pipes.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.Reflection.Metadata.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.Security.AccessControl.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.Security.Claims.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.Security.Principal.Windows.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.ValueTuple.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.Xml.XmlDocument.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.Xml.XPath.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\roslyn\vbc.exe
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\roslyn\vbc.exe.config
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\roslyn\vbc.rsp
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\roslyn\VBCSCompiler.exe
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\roslyn\VBCSCompiler.exe.config
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\Antlr3.Runtime.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\CommonServiceLocator.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\Data.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\Entities.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\EntityFramework.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\EntityFramework.SqlServer.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\Interfaces.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\Microsoft.Web.Infrastructure.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\Newtonsoft.Json.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\PagedList.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\PagedList.Mvc.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\Repositories.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\System.Diagnostics.DiagnosticSource.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\System.Web.Helpers.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\System.Web.Mvc.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\System.Web.Optimization.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\System.Web.Razor.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\System.Web.WebPages.Deployment.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\System.Web.WebPages.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\System.Web.WebPages.Razor.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\Unity.Abstractions.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\Unity.Configuration.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\Unity.Container.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\Unity.Interception.Configuration.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\Unity.Interception.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\Unity.Mvc5.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\Unity.RegistrationByConvention.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\Unity.ServiceLocation.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\WebGrease.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\Data.pdb
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\Data.dll.config
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\Entities.pdb
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\Interfaces.pdb
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\Repositories.pdb
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\Repositories.dll.config
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\CommonServiceLocator.pdb
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\EntityFramework.xml
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\EntityFramework.SqlServer.xml
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\PagedList.xml
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\PagedList.Mvc.xml
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\System.Web.Helpers.xml
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\System.Web.Mvc.xml
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\System.Web.Razor.xml
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\System.Web.WebPages.xml
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\System.Web.WebPages.Deployment.xml
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\System.Web.WebPages.Razor.xml
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\System.Web.Optimization.xml
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\Newtonsoft.Json.xml
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\Unity.Abstractions.pdb
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\Unity.Configuration.pdb
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\Unity.Container.pdb
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\Unity.Interception.pdb
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\Unity.Interception.Configuration.pdb
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\Unity.RegistrationByConvention.pdb
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\Unity.ServiceLocation.pdb
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\Antlr3.Runtime.pdb
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\System.Diagnostics.DiagnosticSource.xml
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+H:\atp current\Utility-Services-Provider-master\USP_Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\atp current\Utility-Services-Provider-master\USP_Application\obj\Debug\USP_Application.csprojAssemblyReference.cache
+H:\atp current\Utility-Services-Provider-master\USP_Application\obj\Debug\USP_Application.csproj.CoreCompileInputs.cache
+H:\atp current\Utility-Services-Provider-master\USP_Application\obj\Debug\USP_Application.csproj.CopyComplete
+H:\atp current\Utility-Services-Provider-master\USP_Application\obj\Debug\USP_Application.dll
+H:\atp current\Utility-Services-Provider-master\USP_Application\obj\Debug\USP_Application.pdb
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\USP_Application.dll.config
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\USP_Application.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\USP_Application.pdb
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\roslyn\csc.exe
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\roslyn\csc.exe.config
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\roslyn\csc.rsp
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\roslyn\csi.exe
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\roslyn\csi.exe.config
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\roslyn\csi.rsp
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.AppContext.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.Console.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.IO.Compression.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.Security.Claims.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.ValueTuple.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\roslyn\vbc.exe
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\roslyn\vbc.exe.config
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\roslyn\vbc.rsp
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\roslyn\VBCSCompiler.exe
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\Antlr3.Runtime.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\CommonServiceLocator.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\Data.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\Entities.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\EntityFramework.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\EntityFramework.SqlServer.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\Interfaces.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\Newtonsoft.Json.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\PagedList.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\PagedList.Mvc.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\Repositories.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\System.Web.Helpers.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\System.Web.Mvc.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\System.Web.Optimization.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\System.Web.Razor.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\System.Web.WebPages.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\System.Web.WebPages.Razor.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\Unity.Abstractions.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\Unity.Configuration.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\Unity.Container.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\Unity.Interception.Configuration.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\Unity.Interception.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\Unity.Mvc5.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\Unity.RegistrationByConvention.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\Unity.ServiceLocation.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\WebGrease.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\Data.pdb
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\Data.dll.config
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\Entities.pdb
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\Interfaces.pdb
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\Repositories.pdb
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\Repositories.dll.config
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\CommonServiceLocator.pdb
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\EntityFramework.xml
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\EntityFramework.SqlServer.xml
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\PagedList.xml
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\PagedList.Mvc.xml
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\System.Web.Helpers.xml
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\System.Web.Mvc.xml
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\System.Web.Razor.xml
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\System.Web.WebPages.xml
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\System.Web.WebPages.Razor.xml
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\System.Web.Optimization.xml
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\Newtonsoft.Json.xml
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\Unity.Abstractions.pdb
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\Unity.Configuration.pdb
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\Unity.Container.pdb
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\Unity.Interception.pdb
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\Unity.Interception.Configuration.pdb
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\Unity.RegistrationByConvention.pdb
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\Unity.ServiceLocation.pdb
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\Antlr3.Runtime.pdb
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\obj\Debug\USP_Application.csprojAssemblyReference.cache
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\obj\Debug\USP_Application.csproj.CoreCompileInputs.cache
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\obj\Debug\USP_Application.csproj.CopyComplete
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\obj\Debug\USP_Application.dll
+C:\Users\Taki\source\repos\ATP 2 Final project Version 0.1\Utility-Services-Provider-master\USP_Application\obj\Debug\USP_Application.pdb
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\USP_Application.dll.config
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\USP_Application.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\USP_Application.pdb
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\roslyn\csc.exe
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\roslyn\csc.exe.config
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\roslyn\csc.rsp
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\roslyn\csi.exe
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\roslyn\csi.exe.config
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\roslyn\csi.rsp
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.AppContext.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.Console.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.IO.Compression.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.Security.Claims.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.ValueTuple.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\roslyn\vbc.exe
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\roslyn\vbc.exe.config
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\roslyn\vbc.rsp
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\roslyn\VBCSCompiler.exe
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\Antlr3.Runtime.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\CommonServiceLocator.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\Data.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\Entities.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\EntityFramework.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\EntityFramework.SqlServer.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\Interfaces.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\Newtonsoft.Json.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\PagedList.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\PagedList.Mvc.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\Repositories.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\System.Web.Helpers.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\System.Web.Mvc.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\System.Web.Optimization.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\System.Web.Razor.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\System.Web.WebPages.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\System.Web.WebPages.Razor.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\Unity.Abstractions.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\Unity.Configuration.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\Unity.Container.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\Unity.Interception.Configuration.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\Unity.Interception.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\Unity.Mvc5.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\Unity.RegistrationByConvention.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\Unity.ServiceLocation.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\WebGrease.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\Data.pdb
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\Data.dll.config
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\Entities.pdb
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\Interfaces.pdb
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\Repositories.pdb
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\Repositories.dll.config
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\CommonServiceLocator.pdb
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\EntityFramework.xml
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\EntityFramework.SqlServer.xml
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\PagedList.xml
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\PagedList.Mvc.xml
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\System.Web.Helpers.xml
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\System.Web.Mvc.xml
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\System.Web.Razor.xml
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\System.Web.WebPages.xml
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\System.Web.WebPages.Razor.xml
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\System.Web.Optimization.xml
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\Newtonsoft.Json.xml
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\Unity.Abstractions.pdb
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\Unity.Configuration.pdb
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\Unity.Container.pdb
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\Unity.Interception.pdb
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\Unity.Interception.Configuration.pdb
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\Unity.RegistrationByConvention.pdb
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\Unity.ServiceLocation.pdb
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\Antlr3.Runtime.pdb
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\obj\Debug\USP_Application.csprojAssemblyReference.cache
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\obj\Debug\USP_Application.csproj.CoreCompileInputs.cache
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\obj\Debug\USP_Application.csproj.CopyComplete
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\obj\Debug\USP_Application.dll
+C:\Users\Taki\Desktop\back up\Utility-Services-Provider-master\USP_Application\obj\Debug\USP_Application.pdb
+D:\#Study Materials\#AIUB\S. AIUB Fall 18-19\00017 - ADVANCED TOPICS IN PROGRAMMING II [A]\Project\Utility Services Provider\Source Code\Utility-Services-Provider-master\USP_Application\obj\Debug\USP_Application.dll
+D:\#Study Materials\#AIUB\S. AIUB Fall 18-19\00017 - ADVANCED TOPICS IN PROGRAMMING II [A]\Project\Utility Services Provider\Source Code\Utility-Services-Provider-master\USP_Application\obj\Debug\USP_Application.pdb

@@ -1,0 +1,15 @@
+﻿@model USP_Application.ViewModels.EmployeeFormViewModel
+@{
+    ViewBag.Title = Model.Employee.Name;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Update Information</h2>
+
+@using (Html.BeginForm("CreateOrUpdate", "Employee"))
+{
+    @Html.Partial("../Employee/_EmployeeForm", Model)
+
+    <button type="submit" class="btn btn-success">Update</button>
+}
+

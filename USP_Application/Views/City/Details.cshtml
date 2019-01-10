@@ -1,0 +1,15 @@
+﻿@model USP_Application.ViewModels.CityFormViewModel
+
+@{
+    ViewBag.Title = Model.City.Name;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+<ul>
+    <li>City Name: @Model.City.Name</li>
+</ul>
+<div style="margin-top:20px;">
+    <a href="/City/Edit/@Model.City.Id"><button style="margin-left:25px;min-width: 77px;" class="btn btn-warning">Edit</button></a>
+    <a href="/City/Remove/@Model.City.Id" onclick="return confirm('Are you sure to delete this City?');"><button style="margin-left:10px;" class="btn btn-danger">Delete</button></a>
+</div>

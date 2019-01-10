@@ -1,0 +1,15 @@
+﻿@model USP_Application.ViewModels.AreaFormViewModel
+@{
+    ViewBag.Title = Model.Area.Name;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Update Area Information</h2>
+
+@using (Html.BeginForm("CreateOrUpdate", "Area"))
+{
+    @Html.Partial("../Area/_AreaForm", Model)
+
+    <button type="submit" class="btn btn-success">Update</button>
+}
+

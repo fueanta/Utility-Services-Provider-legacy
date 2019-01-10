@@ -1,0 +1,20 @@
+﻿@model USP_Application.ViewModels.LoginFormViewModel
+
+@{
+    ViewBag.Title = "Login";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 style="margin-bottom:20px;">Login In</h2>
+
+@if (Model.Invalid)
+{
+    <label style="color:red">Invalid Credential</label>
+}
+
+@using (Html.BeginForm("LogInSubmit", "Home"))
+{
+    @Html.Partial("_LoginForm", Model)
+    <button style="margin-top:15px;" type="submit" class="btn btn-success">Submit</button>
+}
+

@@ -1,0 +1,13 @@
+﻿@model USP_Application.ViewModels.LoginFormViewModel
+
+<div class="form-group">
+    @Html.LabelFor(m => m.UserLogin.Email)
+    @Html.TextBoxFor(m => m.UserLogin.Email, new { @class = "form-control", @type = "email", @placeholder = "Ex: John.Smith@example.com" })
+</div>
+<div class="form-group">
+    @Html.LabelFor(m => m.UserLogin.Password)
+    @Html.TextBoxFor(m => m.UserLogin.Password, new { @class = "form-control", @type = "password", @placeholder = "Enter your password" })
+</div>
+<div style="margin-top:15px; margin-left:20px;" class="checkbox">
+    @Html.CheckBoxFor(m => m.RememberMe) Remember Me
+</div>

@@ -1,0 +1,15 @@
+﻿@model USP_Application.ViewModels.AdminFormViewModel
+
+@{
+    ViewBag.Title = Model.Admin.Name;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+<ul>
+    <li>Admin Name: @Model.Admin.Name</li>
+</ul>
+<div style="margin-top:20px;">
+    <a href="/Admin/Edit/@Model.Admin.Id"><button style="margin-left:25px;min-width: 77px;" class="btn btn-warning">Edit</button></a>
+    <a href="/Admin/Remove/@Model.Admin.Id" onclick="return confirm('Are you sure to delete this Admin?');"><button style="margin-left:10px;" class="btn btn-danger">Delete</button></a>
+</div>

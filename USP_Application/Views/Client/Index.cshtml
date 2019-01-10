@@ -1,0 +1,144 @@
+﻿@using Entities;
+@using PagedList;
+@using PagedList.Mvc;
+@model PagedList.IPagedList<ServiceRequest>
+@{
+    ViewBag.Title = "Client Dashboard";
+    Layout = "_ClientLayout.cshtml";
+}
+@section Scripts {
+    <script type="text/jscript">
+        $(document).ready(function () {
+            $("#SearchBtn").click(function () {
+                var searchValue = $("#SearchBox").val();
+                var searchBy = $("#SearchBy").val();
+
+                var setData = $("#SearchData");
+                var setPageNumber = $("#PageNumber");
+                var setPager = $("#Pager");
+
+                setData.html("");
+                setPageNumber.html("");
+                setPager.html("");
+
+                $.ajax({
+                    type: "post",
+                    url: "/Json/SearchServiceRequestList?searchBy=" + searchBy + "&searchValue=" + searchValue,
+                    contentType: "html",
+                    success: function (result) {
+
+                        if (result.length == 0) {
+                            setData.append('<tr style="color:red"><td colspan="3">Data Not found :(</td></tr>')
+                        }
+                        else {
+                            $.each(result, function (index, value) {
+                                var status = "";
+                                if (value.Status == 0) {
+                                    status = "Pending";
+                                }
+                                else status = "Completed";
+
+                                var tableData =
+                                    '<tr>' +
+                                    '<th scope="row">' + value.Id + '</th>' +
+                                    '<td>' + value.Service.ServiceName + '</td>' +
+                                    '<td>' + value.Helper + '</td>' +
+                                    '<td>' + status + '</td>' +
+                                    '</tr>';
+                                setData.append(tableData);
+                            });
+                        }
+                    },
+                    error: function () {
+                        alert('An error occurred!');
+                    }
+                });
+            });
+        });
+        $('#SearchBox').keypress(keypressHandler);
+        function keypressHandler(e) {
+            if (e.which == 13) {
+                e.preventDefault();
+                $(this).blur();
+                $('#SearchBtn').focus().click();
+                $('#SearchBox').focus();
+            }
+        }</script>
+}
+<div style="margin-top:40px;" class="col-md-12">
+    <div class="panel panel-heading">
+        <div class="panel-body">
+            <div class="row">
+                <div class="col-md-2">
+                    <p style="font-size:xx-large;">Requests</p>
+                </div>
+                <div style="margin-left:60px;" class="col-md-9">
+                    <div class="row">
+                        <div class="col-md-3">
+                            <select id="SearchBy" name="SearchBy" class="form-control">
+                                <option value="id">Search by Id</option>
+                                <option value="serviceName" selected>Search by Name</option>
+                                <option value="serviceTime">Search by Time</option>
+                                <option value="status">Search by Status</option>
+                            </select>
+                        </div>
+                        <div class="col-md-4">
+                            <input id="SearchBox" class="form-control" type="text" placeholder="Search here ..." value="" />
+                        </div>
+                        <div class="col-md-1">
+                            <input id="SearchBtn" class="btn btn-success" type="submit" value="Search" />
+                        </div>
+                        <div style="margin-left:50px;" class="col-md-1">
+                            <a href="/ServiceRequest/Insert/"><button style="margin-left:60px;min-width: 77px;" class="btn btn-warning">Make a Request</button></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        @if (Model == null | Model.Count() == 0)
+        {
+            <p>Make a request..!</p>
+        }
+        else
+        {
+            <div class="table-responsive">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th scope="col">#</th>
+                            <th scope="col">Service Name</th>
+                            <th scope="col">Service Time</th>
+                            <th scope="col">Status </th>
+                        </tr>
+                    </thead>
+                    <tbody id="SearchData">
+                        @foreach (var serviceRequest in Model)
+                        {
+                        <tr>
+                            <th scope="row">
+                                @Html.DisplayFor(modelItem => serviceRequest.Id)
+                            </th>
+                            <td>
+                                @Html.DisplayFor(modelItem => serviceRequest.Service.ServiceName)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => serviceRequest.ServiceTime)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => serviceRequest.Status)
+                            </td>
+                        </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+            <hr />
+            <label id="PageNumber">
+                Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+            </label>
+        }
+    </div>
+    <div style="margin-top:-15px;" id="Pager">
+        @Html.PagedListPager(Model, page => Url.Action("Index", new { page = page }))
+    </div>
+</div>

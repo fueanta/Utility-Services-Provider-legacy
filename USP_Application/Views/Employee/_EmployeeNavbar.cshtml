@@ -1,0 +1,35 @@
+﻿@{
+    var employeeId = Request.Cookies["LoginId"].Value;
+    var employeeName = Request.Cookies["LoginName"].Value;
+}
+
+<div class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            @Html.ActionLink("Utility Services Provider", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+        </div>
+        <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+                <li>@Html.ActionLink("Dashboard", "Index", "Employee")</li>
+                <li>@Html.ActionLink("Labours", "LabourList", "Labour")</li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">@employeeName<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="/Employee/Edit/@employeeId">User Profile</a></li>
+                        @*<li role="separator" class="divider"></li>*@
+                    </ul>
+                </li>
+                <li>@Html.ActionLink("Log Out", "Logout", "Home")</li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+

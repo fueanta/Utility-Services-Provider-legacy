@@ -1,0 +1,12 @@
+﻿@model USP_Application.ViewModels.CityFormViewModel
+
+<div class="form-group">
+    @Html.LabelFor(m => m.City.Name)
+    @Html.TextBoxFor(m => m.City.Name, new { @class = "form-control", @placeholder = "Enter new city name here" })
+</div>
+
+@Html.HiddenFor(m => m.City.Id)
+<p style="min-height:5px;"></p>
+
+
+

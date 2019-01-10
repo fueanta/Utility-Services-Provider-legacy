@@ -1,0 +1,69 @@
+﻿@model USP_Application.ViewModels.LabourFormViewModel
+
+<div class="form-group">
+    @Html.LabelFor(m => m.Labour.Name)
+    @Html.TextBoxFor(m => m.Labour.Name, new { @class = "form-control", @placeholder = "Enter new labour name here" })
+</div>
+<div class="form-group">
+    @Html.LabelFor(m => m.Labour.Gender)
+    @Html.DropDownListFor(m => m.Labour.Gender, new SelectList(Enum.GetValues(typeof(Entities.Gender))), "Select gender",
+                                                new { @class = "form-control" })
+    @Html.ValidationMessageFor(m => m.Labour.Gender, "", new { @class = "text-danger" })
+</div>
+
+<div class="form-group">
+    @Html.LabelFor(m => m.LabourServiceMap.ServiceId)
+    @Html.DropDownListFor(m => m.LabourServiceMap.ServiceId, new SelectList(Model.Services, "Id", "ServiceName"), "Select service",
+                                                new { @class = "form-control", id = "Service" })
+    @Html.ValidationMessageFor(m => m.LabourServiceMap.ServiceId, "", new { @class = "text-danger" })
+</div>
+
+<div class="form-group">
+    @Html.LabelFor(m => m.Labour.CityId)
+    @Html.DropDownListFor(m => m.Labour.CityId, new SelectList(Model.Cities, "Id", "Name"), "Select city",
+                                                new { @class = "form-control", id = "City" })
+    @Html.ValidationMessageFor(m => m.Labour.CityId, "", new { @class = "text-danger" })
+</div>
+@if (Model.Areas == null)
+{
+    <div class="form-group">
+        @Html.LabelFor(m => m.Labour.AreaId)
+        @Html.DropDownListFor(m => m.Labour.AreaId,
+        new SelectList(Enumerable.Empty<SelectListItem>(), "Id", "Name"), "Select area",
+        new { @class = "form-control", id = "Area" })
+        @Html.ValidationMessageFor(m => m.Labour.AreaId, "", new { @class = "text-danger" })
+    </div>
+}
+else
+{
+    <div class="form-group">
+        @Html.LabelFor(m => m.Labour.AreaId)
+        @Html.DropDownListFor(m => m.Labour.AreaId,
+        new SelectList(Model.Areas, "Id", "Name"), "Select area",
+        new { @class = "form-control", id = "Area" })
+        @Html.ValidationMessageFor(m => m.Labour.AreaId, "", new { @class = "text-danger" })
+    </div>
+}
+<div class="form-group">
+    @Html.LabelFor(m => m.Labour.Address)
+    @Html.TextBoxFor(m => m.Labour.Address, new { @class = "form-control", @placeholder = "Ex: H:248, Rd:4, Block:F, Bashundhara" })
+</div>
+<div class="form-group">
+    @Html.LabelFor(m => m.UserLogin.Email)
+    @Html.TextBoxFor(m => m.UserLogin.Email, new { @class = "form-control", @type = "email", @placeholder = "Ex: John.Smith@example.com" })
+</div>
+<div class="form-group">
+    @Html.LabelFor(m => m.UserLogin.Phone)
+    @Html.TextBoxFor(m => m.UserLogin.Phone, new { @class = "form-control", @placeholder = "01X-XXXXXXXX" })
+</div>
+<div class="form-group">
+    @Html.LabelFor(m => m.UserLogin.Password)
+    @Html.TextBoxFor(m => m.UserLogin.Password, new { @class = "form-control", @type = "password", @placeholder = "Minimum 6 characters" })
+</div>
+@Html.HiddenFor(m => m.Labour.Id)
+@Html.HiddenFor(m => m.Labour.Wallet)
+@Html.HiddenFor(m => m.Labour.FakeId)
+@Html.HiddenFor(m => m.Labour.JoiningDate)
+@Html.HiddenFor(m => m.UserLogin.Id)
+@Html.HiddenFor(m => m.UserLogin.UserType)
+<p style="min-height:5px;"></p>
